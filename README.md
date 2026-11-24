@@ -92,6 +92,6 @@ NOTE: The drawings that you see on the sides are the ones I used for reference, 
 
 <img width="3508" height="2480" alt="sky elevator splatoon" src="https://github.com/user-attachments/assets/d2afa530-cc31-4242-93db-0288b1bc91f9" />
 
-This is an academic reference letter from my old homeroom teacher. 
+This is an academic reference letter from my previous homeroom teacher. 
 [Matei Barcaru Reference.docx.pdf](https://github.com/user-attachments/files/35359847/Matei.Barcaru.Reference.docx.pdf)
 
